@@ -5,40 +5,61 @@ export interface Principle {
 
 export const principles: Principle[] = [
   {
-    title: "Intentional Motion",
-    description: "Every animation should feel purposeful, not decorative. Motion guides the eye, reveals hierarchy, and reinforces the narrative.",
+    title: "Systems Over Motivation",
+    description:
+      "Motivation is unreliable. Systems create progress by making the right actions automatic, repeatable, and inevitable.",
   },
   {
-    title: "Premium Restraint",
-    description: "Less is more. Subtle, smooth animations create a sense of sophistication and confidence.",
+    title: "Discipline Compounds",
+    description:
+      "Small, consistent actions outperform bursts of intensity. Most people quit before the compounding starts.",
   },
   {
-    title: "Cinematic Storytelling",
-    description: "Approach each project like a film—with careful choreography, atmosphere, and emotional resonance.",
+    title: "Consistency Wins",
+    description:
+      "Showing up daily is rare. That’s why it works. Momentum is built through repetition, not inspiration.",
   },
   {
-    title: "Technical Excellence",
-    description: "Combine artistic vision with technical precision to create experiences that are both beautiful and functional.",
+    title: "Long-Term Thinking",
+    description:
+      "Short-term gains are easy. Meaningful growth comes from playing long games and making decisions that compound over years.",
   },
 ];
 
 export const frameworks = [
   {
-    category: "Design",
-    tools: ["Figma", "After Effects", "Cinema 4D", "Blender"],
+    category: "Discipline",
+    tools: [
+      "Daily non-negotiables",
+      "Environment design",
+      "Friction removal",
+      "Identity-based habits",
+    ],
   },
   {
-    category: "Development",
-    tools: ["React", "TypeScript", "Framer Motion", "Tailwind CSS"],
+    category: "Growth",
+    tools: [
+      "Skill stacking",
+      "Feedback loops",
+      "Deliberate practice",
+      "Leverage through systems",
+    ],
   },
   {
-    category: "Motion",
-    tools: ["Lenis", "GSAP", "Three.js", "WebGL"],
+    category: "Consistency",
+    tools: [
+      "Streaks over goals",
+      "Process-first thinking",
+      "Minimum viable effort",
+      "Long-term tracking",
+    ],
   },
 ];
 
 export const philosophy = {
-  tagline: "Creating digital experiences that feel like art",
-  mission: "To blur the boundaries between design and technology, crafting immersive digital experiences that captivate and inspire.",
-  approach: "Every project begins with understanding the story we want to tell. From there, we choreograph interactions, design visual systems, and implement with technical precision—always prioritizing the user's emotional journey.",
+  tagline: "Building discipline through systems, not motivation.",
+  mission:
+    "To design and build systems that help people stay consistent, grow intentionally, and play long-term games.",
+  approach:
+    "I focus on reducing friction, clarifying priorities, and turning effort into repeatable processes. Progress comes from showing up daily, refining systems, and letting consistency do the work.",
 };
