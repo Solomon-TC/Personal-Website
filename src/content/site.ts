@@ -22,9 +22,9 @@ export const siteContent = {
     title: "Crafting",
     titleAccent: "Experiences",
     paragraphs: [
-      "I'm a digital creator focused on building immersive experiences that blur the line between design and technology.",
-      "With a background in motion graphics and interface design, I approach every project as an opportunity to tell a story through carefully choreographed interactions and cinematic visuals.",
-      "My work combines technical precision with artistic vision, creating digital products that feel both premium and purposeful.",
+      "I am a young entrepreneur focused on creating value for as many people I can.",
+      "With a background in building and problem solving, I approach every project as an opportunity to change the lives of others.",
+      "My work combines technical precision with artistic vision, creating businesses that feel both premium and purposeful.",
     ],
     skills: ["Learning", "Problem Solving", "Creating", "Adapting"],
   },
